@@ -6,6 +6,7 @@ _openmp_mutex=4.5=1_gnu
 blas=1.0=mkl
 brotli=1.0.9=he6710b0_2
 bzip2=1.0.8=h7b6447c_0
+opencv-python==4.7.0.68
 ca-certificates=2022.2.1=h06a4308_0
 certifi=2021.10.8=py37h06a4308_2
 cloudpickle=2.0.0=pyhd3eb1b0_0
